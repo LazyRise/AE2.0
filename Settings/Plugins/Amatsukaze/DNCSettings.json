@@ -1,0 +1,16 @@
+{
+  "QtKeyBindingsSetting": {},
+  "espritThreshold": 80,
+  "rotationIndex": 0,
+  "delayPotion": false,
+  "TTKCheck": false,
+  "autoSecondWindHP": 0.3,
+  "showTutorial": true,
+  "skipTutorial": false,
+  "isSoundEnabled": true,
+  "currentVolume": 1.0,
+  "isMouseTrailEnabled": true,
+  "StyleSetting": {},
+  "JobWindowSetting": {},
+  "AutoReset": true
+}

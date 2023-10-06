@@ -1,0 +1,16 @@
+{
+  "MTOpener": 0,
+  "STOpener": 0,
+  "BNinOpener": true,
+  "Far4": true,
+  "OGCDLock": 600,
+  "NoOgcdFar": true,
+  "PushInPotion": true,
+  "AutoMT": false,
+  "AutoST": false,
+  "AutoGrit": false,
+  "AutoReset": true,
+  "useTTK": false,
+  "StyleSetting": {},
+  "JobWindowSetting": {}
+}

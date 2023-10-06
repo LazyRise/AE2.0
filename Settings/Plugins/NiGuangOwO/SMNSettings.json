@@ -1,0 +1,30 @@
+{
+  "JobViewSave": {
+    "MainColor": {
+      "X": 0.6313726,
+      "Y": 0.18431373,
+      "Z": 0.44705883,
+      "W": 0.8
+    },
+    "QtWindowBgAlpha": 0.3,
+    "QtButtonSize": {
+      "X": 95.0,
+      "Y": 40.0
+    },
+    "QtHotkeySize": {
+      "X": 56.0,
+      "Y": 56.0
+    },
+    "QtUnVisibleList": [],
+    "QtLineCount": 3,
+    "HotkeyConfig": {},
+    "QtHotkeyConfig": {},
+    "HotkeyUnVisibleList": [],
+    "HotkeyLineCount": 4,
+    "AutoReset": true,
+    "ShowQT": true,
+    "ShowHotkey": true
+  },
+  "qt自动火神冲": true,
+  "qt爆发药": true
+}

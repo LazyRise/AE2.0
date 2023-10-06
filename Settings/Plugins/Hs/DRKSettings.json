@@ -1,0 +1,20 @@
+{
+  "Time": 800,
+  "BloodWeaponTime": 4000,
+  "DeliriumTime": 1000,
+  "AOE_kazu": 2,
+  "houzonnMANA": false,
+  "Opener_BlackestNight": false,
+  "Opener_20keigenni": false,
+  "Opener_0or1check": false,
+  "Opener_0or1_1": false,
+  "Opener_20keigenni_time": 10000,
+  "Opener_30keigenni": false,
+  "Opener_30keigenni_time": 5000,
+  "Opener_Plunge": false,
+  "BlackestNightTime": 3000,
+  "BlackestNightTarget": 0,
+  "Pos_all": true,
+  "UI": false,
+  "DevUI": false
+}

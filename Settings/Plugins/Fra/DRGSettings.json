@@ -1,0 +1,11 @@
+{
+  "HutonTime": 20,
+  "HutonMinTime": 10,
+  "HutonTimeBurst": 15,
+  "Back": false,
+  "AutoHuton": false,
+  "BackTime": 50,
+  "TCJBlock": false,
+  "StyleSetting": {},
+  "AutoReset": true
+}

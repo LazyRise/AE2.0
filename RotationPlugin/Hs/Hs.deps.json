@@ -9,9 +9,7 @@
       "Hs/1.0.0": {
         "dependencies": {
           "CombatRoutine": "1.0.0",
-          "Common": "1.0.0",
-          "Yoyokity": "1.0.0",
-          "YoyokityPVP": "1.0.0"
+          "Common": "1.0.0"
         },
         "runtime": {
           "Hs.dll": {}

@@ -32,6 +32,41 @@
             单个区域限制类
             </summary>
         </member>
+        <member name="F:Common.Define.MoveControlCongfigKey.MoveForward">
+            <summary>
+            前进
+            </summary>
+        </member>
+        <member name="F:Common.Define.MoveControlCongfigKey.MoveBack">
+            <summary>
+            后退
+            </summary>
+        </member>
+        <member name="F:Common.Define.MoveControlCongfigKey.MoveLeft">
+            <summary>
+            左转
+            </summary>
+        </member>
+        <member name="F:Common.Define.MoveControlCongfigKey.MoveRight">
+            <summary>
+            右转
+            </summary>
+        </member>
+        <member name="F:Common.Define.MoveControlCongfigKey.StrafeLeft">
+            <summary>
+            左平移
+            </summary>
+        </member>
+        <member name="F:Common.Define.MoveControlCongfigKey.StrafeRight">
+            <summary>
+            右平移
+            </summary>
+        </member>
+        <member name="F:Common.Define.MoveControlCongfigKey.JUMP">
+            <summary>
+            跳跃 向上
+            </summary>
+        </member>
         <member name="T:Common.Define.SpellTargetType">
             <summary>
             技能目标代名词
